@@ -1,0 +1,22 @@
+define({
+  start: 'بدء',
+  selectTemplateTip: 'تحديد قالب',
+  selectAnotherTemplateTip: 'تحديد قالب آخر',
+  filtersDesc: 'أضف عوامل تصفية جديدة وخصص الخيارات.',
+  newFilter: 'عامل تصفية جديد',
+  setFilterItem: 'إنشاء عامل تصفية جديد',
+  sqlExpr: 'تعبيرات SQL',
+  sqlExprDesc: 'إضافة تعبيرات SQL إلى عامل التصفية.',
+  openFilterBuilder: 'مُنشئ تعبير SQL',
+  setExprTips: 'يرجى إضافة تعبيرات SQL أولاً.',
+  options: 'خيارات',
+  autoApplyWhenWidgetOpen: 'تطبيق عامل التصفية تلقائيًا',
+  collapseFilterExprs: 'طي تفاصيل عامل التصفية تلقائيًا (إن وُجدت)',
+  arrangeAndStyle: 'نمط الترتيب',
+  activationMethods: 'نمط التنشيط',
+  toggleTooltip: 'تشغيل التبديل',
+  buttonTooltip: 'زر',
+  omitInternalStyle: 'استبعاد أنماط التنشيط لفقرة مفردة',
+  omitInternalStyleTip: 'إذا كانت هناك فقرة واحدة فقط تطلب القيم (أو عرض التسمية) في كل تصفية، فإن هذا الخيار يتيح لك استبعاد أنماط التنشيط (جنبًا إلى جنب مع التسمية والأيقونة)، وعرض محتوى الفقرة مباشرة وتنفيذه تلقائيًا.',
+  wrapFilters: 'التفاف العناصر'
+});
